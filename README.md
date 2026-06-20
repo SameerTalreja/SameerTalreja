@@ -198,7 +198,8 @@ Regression model predicting repo popularity from stars, forks, and activity metr
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SameerTalreja&amp;theme=darkhub&amp;no-frame=true&amp;no-bg=true&amp;row=1&amp;column=7&amp;margin-w=8" width="98%"/>
+<img src="https://github-trophies.vercel.app/?username=SameerTalreja&amp;theme=darkhub&amp;no-frame=true&amp;no-bg=true&amp;row=1&amp;column=7&amp;margin-w=8" width="98%"/>
+
 
 </div>
 
@@ -214,8 +215,8 @@ Regression model predicting repo popularity from stars, forks, and activity metr
 
 </div>
 
-><!-- 📌 The snake, activity graph, and trophy case need a one-time GitHub Action — see **Setup** below.-->
-
+> <!--📌 The snake needs a one-time GitHub Action — see **Setup** below. The stats, activity graph, and trophy widgets are free third-party services and occasionally return a `402`/`503` if that host hits its monthly quota — if one ever breaks, it's the host, not your README; ping me and I'll swap it to a different mirror.
+-->
 <br/>
 
 <div align="center">
