@@ -213,7 +213,8 @@ Regression model predicting repo popularity from stars, forks, and activity metr
 
 </div>
 
-> 📌 To activate the snake animation above, see **Setup** below — it needs a one-time GitHub Action added to your profile repo.
+>
+> <!-- 📌 To activate the snake animation above, see **Setup** below — it needs a one-time GitHub Action added to your profile repo.-->
 
 <br/>
 
