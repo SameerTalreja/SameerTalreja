@@ -214,8 +214,8 @@ Regression model predicting repo popularity from stars, forks, and activity metr
 <!-- snake-animation -->
 
 </div>
-
-> <!--📌 The snake needs a one-time GitHub Action — see **Setup** below. The stats, activity graph, and trophy widgets are free third-party services and occasionally return a `402`/`503` if that host hits its monthly quota — if one ever breaks, it's the host, not your README; ping me and I'll swap it to a different mirror.
+<!--
+> 📌 The snake needs a one-time GitHub Action — see **Setup** below. The stats, activity graph, and trophy widgets are free third-party services and occasionally return a `402`/`503` if that host hits its monthly quota — if one ever breaks, it's the host, not your README; ping me and I'll swap it to a different mirror.
 -->
 <br/>
 
